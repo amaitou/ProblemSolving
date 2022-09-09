@@ -1,4 +1,6 @@
 -----------
+![problem-solving-techniques-min](https://user-images.githubusercontent.com/49293816/189393444-8398352c-eee7-46e7-87a0-be69df5928d1.jpg)
+
 
 -----------
 
