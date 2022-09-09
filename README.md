@@ -8,7 +8,7 @@
 
 -----------
 
-Since I love ```Problem-Solving``` and ```Competitive Programming``` sometimes, I decided to share my solutions. <br />
+Since I love ```Problem-Solving``` and ```Competitive Programming```, I decided to share my solutions. <br />
 I use many platforms such as :
 * [CodeWars](https://www.codewars.com/)
 * [Leetcode](https://www.leetcode.com/)
